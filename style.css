@@ -1,0 +1,54 @@
+body{
+	background-image: url(images/choucroute.jpg);
+}
+h1{
+	font-size: 30px;
+	color:#E9B216;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	text-decoration: pink wavy underline;
+	background-color: black;
+}
+
+h2{
+	color: #B88E19;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-style: italic;
+	text-align: center;
+	background-color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+a{
+	border-radius: 20px;
+	color: black;
+	background-color: lightgrey;
+	border-radius: 2px;
+
+}
+
+img{
+	height: 80px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+ol{
+	text-shadow: pink 1px 1px;
+}
+
+.banner{
+	background-color: white;
+}
+.fabrication{
+	display: flex;
+	justify-content: center;
+}
+.centrer{
+	display: flex;
+	justify-content: center;
+	margin: 30px;
+	border: red solid;
+}
