@@ -11,6 +11,7 @@ h1{
 }
 
 h2{
+	font-size: 30px;
 	color: #B88E19;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-style: italic;
@@ -51,4 +52,14 @@ ol{
 	justify-content: center;
 	margin: 30px;
 	border: red solid;
+}
+
+
+
+@media (max-width: 540px){
+	 body, h1, h2, a, ol {
+    font-size: : 10px;
+  	 }
+  	 img{height: 50px;
+  	 }
 }
